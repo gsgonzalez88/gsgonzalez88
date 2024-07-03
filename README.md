@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Finthrive.com**
 
-- 👯 I’m looking to collaborate on a **frontend project**
+- 👯 I’m looking to collaborate on a **frontend project** about Healthcare
 
 - 💬 Ask me about **Angular**
 
